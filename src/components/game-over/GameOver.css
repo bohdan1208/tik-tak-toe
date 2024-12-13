@@ -1,0 +1,14 @@
+.game-over {
+  display: flex;
+  width: 600px;
+  height: 600px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(128, 128, 128, 0.8);
+  border-radius: 4px;
+}

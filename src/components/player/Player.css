@@ -1,0 +1,16 @@
+.player {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 50%;
+  border-bottom: 2px solid transparent;
+}
+
+.symbol {
+  font-size: 40px;
+}
+
+.active {
+  border-bottom: 2px solid red;
+}

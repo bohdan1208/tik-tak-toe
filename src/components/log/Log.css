@@ -1,0 +1,9 @@
+.logs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.log {
+  font-size: 20px;
+}
